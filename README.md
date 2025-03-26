@@ -1,7 +1,7 @@
 # Development of a Surface Plasmon Resonance Sensor for Predicting Airborne Contaminants and Their Cumulative Impact on Human Health
 
 ## Overview
-This repository contains my Bachelor's final qualification work in Optical Engineering (12.03.02) completed at Bauman Moscow State Technical University in 2023. Under the supervision of V.I. Batshev, the project focuses on the development of a Surface Plasmon Resonance (SPR) sensor aimed at predicting airborne contaminants and assessing their cumulative impact on human health. The work includes the principal development of the sensor's optical design and a detailed experimental study.
+This repository contains my Bachelor's final qualification work in Optical Engineering (12.03.02) completed at Bauman Moscow State Technical University in collaboration with Russian Academy of Science in 2023. Under the supervision of V.I. Batshev, the project focuses on the development of a Surface Plasmon Resonance (SPR) sensor aimed at predicting airborne contaminants and assessing their cumulative impact on human health. The work includes the principal development of the sensor's optical design and a detailed experimental study.
 
 ## Principal Development
 The core of this project is the design and implementation of an SPR sensor based on the following principles:
